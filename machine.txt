@@ -1,0 +1,23 @@
+AI 
+artificial intellenge 
+    |
+intellenge 
+    |
+Knowledge
+    | 
+learning + intellenge       
+
+
+
+data analysis  ==> meaningfull data => data model (train korbo model k) 
+==> evaluation ==> production Ai 
+
+pip install module 
+
+
+
+learnings ==> 1. supervise(question+answer jana thakbe) types=> 2 prokar [linear regrassion, classification] 2. unsupervise(cluster) 3. re inforcement () 
+
+
+// .ipynb
+
